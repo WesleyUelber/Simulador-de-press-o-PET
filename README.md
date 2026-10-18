@@ -1,1 +1,0 @@
-# Simulador-de-press-o-PET
